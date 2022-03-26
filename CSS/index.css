@@ -1,0 +1,32 @@
+body {background-color: beige;}
+.title {
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.intro {
+    text-align: center;
+    font-size: medium;
+
+}
+
+.list {
+    margin-top: 50px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.list .button {
+    background-color: aqua;
+}
+
+img {
+    align-content: center;
+    border: 5px solid black;  
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
