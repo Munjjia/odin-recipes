@@ -11,6 +11,32 @@ body {
     font-weight: bold;
     text-align: center;
 }
+
+.box-one,
+.box-two {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+
+.box-one {
+    background-color: #eb5757;
+    border: 20px solid #9851e0;
+    padding: 10px;
+    height: 100px;
+    width: 160px;
+    margin: 100px;
+    box-sizing: border-box;
+}
+
+.box-two {
+    background-color: #2d9cdb;
+    border: 20px solid #27ae60;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    margin: 60px;
+}
 .intro {
     text-align: center;
     font-size: medium;
