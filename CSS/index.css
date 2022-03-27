@@ -5,6 +5,12 @@ body {
     text-align:center;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.alert { 
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
 .intro {
     text-align: center;
     font-size: medium;
